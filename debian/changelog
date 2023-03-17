@@ -1,6 +1,7 @@
 backup-at-scripts (1.0.3+deb11u3) UNRELEASED; urgency=medium
 
   * Update Copyright for 2023.
+  * Update watch file to use git mode.
 
  -- Mark Grant <m.grant.prg@gmail.com>  Fri, 17 Mar 2023 09:45:36 +0000
 
