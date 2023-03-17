@@ -1,0 +1,48 @@
+backup-at-scripts (1.0.3-0ubuntu20.04u1) focal; urgency=medium
+
+  * New upstream release.
+  * Adopt new Ubuntu versioning as above.
+  * Reviewed up to current standards version 4.5.1
+  * Update copyright for 2021.
+  * Correct license in copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Dec 2021 14:33:19 +0000
+
+backup-at-scripts (1.0.2-1ubuntu2) focal; urgency=medium
+
+  * Create focal branch.
+  * Upgrade to compatibility level 12.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Oct 2020 10:02:03 +0000
+
+backup-at-scripts (1.0.2-1ubuntu1) bionic; urgency=medium
+
+  * Create bionic branch.
+  * Upgrade to compatibility level 11.
+  * Package reviewed up to current standards version 4.3.0.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Oct 2020 09:48:03 +0000
+
+backup-at-scripts (1.0.2-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 14 Dec 2019 15:17:03 +0000
+
+backup-at-scripts (1.0.1+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Dec 2019 15:30:40 +0000
+
+backup-at-scripts (1.0.1-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 11 Dec 2019 14:03:32 +0000
+
+backup-at-scripts (1.0.0+rc1-deb10u1) buster; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 11 Dec 2019 11:13:12 +0000
