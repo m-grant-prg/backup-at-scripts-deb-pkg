@@ -1,11 +1,11 @@
-backup-at-scripts (1.1.1+deb12u1) UNRELEASED; urgency=medium
+backup-at-scripts (1.1.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release
   * Remove txt2man, rely on txt2manwrap dependencies
   * Correct upstream Copyright dates
   * Update watch file to support ~ in version numbers
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:28:35 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:29:12 +0100
 
 backup-at-scripts (1.0.3+deb11u3) bullseye; urgency=medium
 
