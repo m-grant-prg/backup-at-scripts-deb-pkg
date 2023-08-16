@@ -1,3 +1,13 @@
+backup-at-scripts (1.0.4-0ubuntu20.04u1) UNRELEASED; urgency=medium
+
+  * Merge new upstream release
+  * Correct hidden support file versions
+  * Remove txt2man, rely on txt2manwrap dependencies
+  * Update watch file to support ~ in version numbers
+  * Change Debian source format to native
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:42:06 +0100
+
 backup-at-scripts (1.0.3-0ubuntu20.04u2) focal; urgency=medium
 
   * Update Copyright for 2023.
