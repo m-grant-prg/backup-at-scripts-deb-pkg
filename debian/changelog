@@ -1,4 +1,4 @@
-backup-at-scripts (1.0.4-0ubuntu20.04u1) UNRELEASED; urgency=medium
+backup-at-scripts (1.0.4-0ubuntu20.04u1) focal; urgency=medium
 
   * Merge new upstream release
   * Correct hidden support file versions
@@ -6,7 +6,7 @@ backup-at-scripts (1.0.4-0ubuntu20.04u1) UNRELEASED; urgency=medium
   * Update watch file to support ~ in version numbers
   * Change Debian source format to native
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:42:06 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:43:08 +0100
 
 backup-at-scripts (1.0.3-0ubuntu20.04u2) focal; urgency=medium
 
