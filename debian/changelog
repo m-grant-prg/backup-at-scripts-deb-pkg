@@ -1,4 +1,4 @@
-backup-at-scripts (1.1.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
+backup-at-scripts (1.1.1-0ubuntu22.04u1) jammy; urgency=medium
 
   * Merge new upstream release
   * Remove txt2man, rely on txt2manwrap dependencies
@@ -6,7 +6,7 @@ backup-at-scripts (1.1.1-0ubuntu22.04u1) UNRELEASED; urgency=medium
   * Update watch file to support ~ in version numbers
   * Change Debian source format to native
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:50:59 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:52:14 +0100
 
 backup-at-scripts (1.0.3-0ubuntu22.04u2) jammy; urgency=medium
 
