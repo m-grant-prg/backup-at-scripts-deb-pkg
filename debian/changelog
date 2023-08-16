@@ -1,11 +1,11 @@
-backup-at-scripts (1.0.4+deb11u1) UNRELEASED; urgency=medium
+backup-at-scripts (1.0.4+deb11u1) bullseye; urgency=medium
 
   * Merge new upstream release.
   * Correct hidden support file versions
   * Remove txt2man, rely on txt2manwrap dependecies
   * Update watch file to support ~ in version numbers
 
- -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 13:56:52 +0100
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 13:57:50 +0100
 
 backup-at-scripts (1.0.3+deb11u3) bullseye; urgency=medium
 
