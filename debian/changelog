@@ -1,3 +1,18 @@
+backup-at-scripts (1.1.2~rc1+deb12u1) bookworm; urgency=medium
+
+  * New upstream development release
+  * Remove versions in Depends, too old
+  * Re-order Depends to ease cherry picking to Ubuntu
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 18 Mar 2024 09:34:10 +0000
+
 backup-at-scripts (1.1.1+deb12u1) bookworm; urgency=medium
 
   * Merge new upstream release
