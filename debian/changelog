@@ -1,0 +1,99 @@
+backup-at-scripts (1.1.2+ubuntu22.04u1) jammy; urgency=medium
+
+  * New upstream release
+  * Remove versions from Depends, too old
+  * Re-order Depends to ease cherry picking to Ubuntu
+  * Update editorconfig to v1.0.6
+  * Update gitattributes to v1.0.5
+  * Update gitignore to v1.0.12
+  * Update mailmap to v1.0.4
+  * Update Copyright for 2024
+  * Remove [Build-]Depends on essential packages
+  * Add lintian override for watch file
+  * Silence lintian changelog-file-missing-explicit-entry warning
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Mon, 08 Apr 2024 09:18:06 +0100
+
+backup-at-scripts (1.1.1-0ubuntu22.04u1) jammy; urgency=medium
+
+  * Merge new upstream release
+  * Remove txt2man, rely on txt2manwrap dependencies
+  * Correct upstream Copyright dates
+  * Update watch file to support ~ in version numbers
+  * Change Debian source format to native
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 16 Aug 2023 14:52:14 +0100
+
+backup-at-scripts (1.0.3-0ubuntu22.04u2) jammy; urgency=medium
+
+  * Update Copyright for 2023.
+  * Update watch file to use git mode.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 17 Mar 2023 10:16:10 +0000
+
+backup-at-scripts (1.0.3-0ubuntu22.04u1) jammy; urgency=medium
+
+  * Create Jammy branch.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 28 Apr 2022 16:00:23 +0000
+
+backup-at-scripts (1.0.3-deb11u2) bullseye; urgency=medium
+
+  * Update to compatibility level 13.
+  * Update Debian Copyright for 2022.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 28 Apr 2022 15:42:23 +0000
+
+backup-at-scripts (1.0.3-deb11u1) bullseye; urgency=medium
+
+  * New upstream release.
+  * Reviewed up to current standards version 4.5.1
+  * Correct license in copyright.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 02 Dec 2021 13:59:23 +0000
+
+backup-at-scripts (1.0.2+rc1-deb11u1) bullseye; urgency=medium
+
+  * Create new bullseye branch.
+  * Remove unnecessary .docs file.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 19 Aug 2021 14:35:52 +0000
+
+backup-at-scripts (1.0.2+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+  * Update Copyright for 2021.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 06 Mar 2021 14:35:52 +0000
+
+backup-at-scripts (1.0.2-deb10u2) buster; urgency=medium
+
+  * Upgrade to compatibility level 12.
+  * Package reviewed up to current standards version 4.3.0.
+  * Debian files copyright updated to 2020.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 22 Oct 2020 10:24:03 +0000
+
+backup-at-scripts (1.0.2-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sat, 14 Dec 2019 15:17:03 +0000
+
+backup-at-scripts (1.0.1+rc1-deb10u1) buster; urgency=medium
+
+  * New upstream development release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Fri, 13 Dec 2019 15:30:40 +0000
+
+backup-at-scripts (1.0.1-deb10u1) buster; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 11 Dec 2019 14:03:32 +0000
+
+backup-at-scripts (1.0.0+rc1-deb10u1) buster; urgency=medium
+
+  * Initial release.
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Wed, 11 Dec 2019 11:13:12 +0000
