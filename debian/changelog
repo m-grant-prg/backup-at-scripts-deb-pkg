@@ -1,3 +1,10 @@
+backup-at-scripts (1.2.0~rc1+deb12u1) bookworm; urgency=medium
+
+  * New upstream development release
+  * Update Copyright for 2025
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Sun, 16 Feb 2025 13:41:46 +0000
+
 backup-at-scripts (1.1.2+deb12u1) bookworm; urgency=medium
 
   * New upstream release
