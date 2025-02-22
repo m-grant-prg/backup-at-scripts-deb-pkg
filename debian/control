@@ -10,7 +10,12 @@ Vcs-Browser: https://github.com/m-grant-prg/backup-at-scripts
 
 Package: backup-at-scripts
 Architecture: all
+<<<<<<< HEAD
 Depends: at,
+=======
+Depends: at, moreutils,
+	mgrant-obs-deb-keyring,
+>>>>>>> 74f34533 (Add dependency on moreutils for ts (timestamp))
 	${misc:Depends}
 Description: lixbackups AT backup scripts
  A number of at job scheduler lixbackups backup scripts. Covers adhoc, daily,
