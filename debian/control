@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/m-grant-prg/backup-at-scripts
 
 Package: backup-at-scripts
 Architecture: all
-Depends: at,
+Depends: at, moreutils,
 	mgrant-obs-deb-keyring,
 	${misc:Depends}
 Description: lixbackups AT backup scripts
