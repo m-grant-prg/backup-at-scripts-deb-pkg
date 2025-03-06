@@ -1,3 +1,11 @@
+backup-at-scripts (1.2.0+deb13u1) trixie; urgency=medium
+
+  * New upstream release
+  * Update Copyright for 2025
+  * Add dependency on moreutils for ts (timestamp)
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Mar 2025 13:57:45 +0000
+
 backup-at-scripts (1.1.2+deb13u1) trixie; urgency=medium
 
   * New upstream release
