@@ -1,3 +1,9 @@
+backup-at-scripts (1.2.0+ubuntu24.04u2) noble; urgency=medium
+
+  * Fix half-cherry-picked control file
+
+ -- Mark Grant <m.grant.prg@gmail.com>  Thu, 06 Mar 2025 15:54:39 +0000
+
 backup-at-scripts (1.2.0+ubuntu24.04u1) noble; urgency=medium
 
   * New upstream release
