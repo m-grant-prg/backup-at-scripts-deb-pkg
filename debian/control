@@ -1,0 +1,19 @@
+Source: backup-at-scripts
+Section: misc
+Priority: extra
+Maintainer: Mark Grant <m.grant.prg@gmail.com>
+Build-Depends: debhelper-compat (= 13),
+	txt2manwrap
+Standards-Version: 4.5.1
+Vcs-Git: https://github.com/m-grant-prg/backup-at-scripts.git
+Vcs-Browser: https://github.com/m-grant-prg/backup-at-scripts
+
+Package: backup-at-scripts
+Architecture: all
+Depends: at, moreutils,
+	mgrant-obs-deb-keyring,
+	${misc:Depends}
+Description: lixbackups AT backup scripts
+ A number of at job scheduler lixbackups backup scripts. Covers adhoc, daily,
+ selective and weekly backups. Also provides variations on these for swoc
+ locking and shutdown after backup.
